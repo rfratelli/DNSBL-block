@@ -482,3 +482,20 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 muscdn.com
+0.0.0.0 muscdn.com.akamaized.net
+0.0.0.0 musical.ly
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.com.edgesuite.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 tiktokcdn.com.akamaized.net
+0.0.0.0 tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 tiktokcdn.com.edgesuite.net
+0.0.0.0 tiktokcdn.com.wsdvs.com
+0.0.0.0 tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokv.com.edgekey.net
+0.0.0.0 tiktokv.com.edgesuite.net
+0.0.0.0 ttlivecdn.com
+0.0.0.0 douyin.com # https://github.com/nextdns/services/issues/2
